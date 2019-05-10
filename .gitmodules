@@ -1,3 +1,6 @@
 [submodule "lpc-doc"]
 	path = lpc-doc
 	url = git://github.com/dworkin/lpc-doc.git
+[submodule "cloud-server"]
+	path = cloud-server
+	url = https://github.com/dworkin/cloud-server

@@ -1,0 +1,7 @@
+version: "3.4"
+
+services:
+    cloud-server:
+        volumes:
+        - "./cloud-server/src:/app/mud"
+
